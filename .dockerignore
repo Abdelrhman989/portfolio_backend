@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log
+dist
+.env
+.git
+.gitignore
+README.md
+MONGODB_SETUP.md
+nest-cli.json
+package-lock.json
+package.json.updated
